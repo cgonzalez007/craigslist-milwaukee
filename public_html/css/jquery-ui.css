@@ -378,13 +378,13 @@ button.ui-button::-moz-focus-inner {
 
 .ui-checkboxradio-label .ui-icon-background {
 	box-shadow: inset 1px 1px 1px #ccc;
-	border-radius: .12em;
+	/*border-radius: .12em;*/
 	border: none;
 }
 .ui-checkboxradio-radio-label .ui-icon-background {
 	width: 16px;
 	height: 16px;
-	border-radius: 1em;
+	/*border-radius: 1em;*/
 	overflow: visible;
 	border: none;
 }
